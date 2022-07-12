@@ -1,0 +1,7 @@
+.env
+/.idea
+/.vscode
+docker/redis
+docker/mysql/db
+docker/nginx
+src
