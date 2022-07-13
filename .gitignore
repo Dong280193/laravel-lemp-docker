@@ -4,4 +4,3 @@
 docker/redis
 docker/mysql/db
 docker/nginx
-src
